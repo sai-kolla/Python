@@ -1,5 +1,5 @@
 
-string = raw_input("Enter a string: ")
+string = input("Enter a string: ")
 digits = 0
 letters = 0
 
